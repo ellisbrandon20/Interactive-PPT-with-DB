@@ -1,0 +1,26 @@
+IDEA:
+
+initilialize:
+	the listbox initialize assumes that if there are songs already loaded on ppt. that it is all slides that are in the database. 
+
+	- can change this feature later
+
+
+
+bible: 
+
+	- try to make the add ppt slide into a sub routine so you dont have copied code!!!!
+		- used in add_song and add_verse
+
+
+
+WORKS: 
+	- putting chr count  < 275 in one slide
+	- superscript v#s
+
+NO WORK:
+	- doesnt add a single verse
+	- doesnt add verses after the first set
+
+
+

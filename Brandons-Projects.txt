@@ -1,0 +1,40 @@
+Projects by Brandon Ellis
+ftp://0andgo.com:amazing@0andgo.com
+
+USING THIS DATABASE
+
+	Front End work/4.0 & Go World Headquarters Brandon Register 3
+
+
+ACCESS
+
+	- Clock in-out system
+		in forms - "Time sheet -form trial - Brandon"
+
+
+	- Table Generator
+		in forms - "Brandon Ellis - table generator"
+			***view code to see what tables and forms are used to create this
+			*** Table generator - Filter by: Me.Filter doesnt work for +/- buttons
+
+
+ASP - WEPAGES
+
+	- Advertisement assignment asp page
+		in experiments on server - "/Experiments/AdvertisementAssignment.asp"
+		
+		-- need to add drop down box in each row.
+		-- the online advertising table does not accept =CurrentSemester(), or =CurrentYear()		
+
+	
+	- *Class Connections Form
+		in experiments on server - "/Experiments/Class_Connections_Form.asp"
+
+		-- put all profs names in array and display that array values in the dropbox
+
+
+
+PPT
+	- test1.ppt, Church1.mdb
+		-- made userform to add, delete, next/prev slide, show slide etc
+		-- builds ppt slides as you are presenting
